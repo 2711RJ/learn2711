@@ -1,0 +1,46 @@
+1. WAP to take 10 numbers from a user and store them in a list.
+
+2. Display numbers divisible by 5 from a list.
+
+3. WAP to calculate the count of elements in a string taken as input from the user.
+
+4. WAP to check if a number is even or odd where number is taken as input.
+
+5. WAP to reverse a string taken as input from the user.
+
+6. WAP to reverse all the strings present in a list and save them in a new list.
+
+7. Print characters from a string that are present at an even index number
+
+8. Check if the first and last number of a list is the same
+
+9. Calculate income tax for the input income by adhering to the Indian rules.
+
+10. Write a Python program to check whether a string starts with vowel or not.
+
+11. Write a Python program to check if all the characters of a string are vowel or not.
+
+12. WAP to calculate percentage of a student through 5 subjects. Take marks as input from the user.
+
+13. WAP to convert '95.3' taken as input from the user into float value.
+
+14. WAP to count the number of zeroes present in a number taken as input from the user.
+
+15. WAP to calculate the surface area of a triangle. Take the required values as input.
+
+16. WAP to concatenate two lists index-wise and save the result in a 3rd list.
+
+17. WAP to convert two lists into a dictionary. Take the elements from first list as keys
+and elements from second list as values.
+
+18. Input and store the marks of 10 students in a list. Print max and min marks.
+
+19. WAP to save the username and password of 10 users in a dictionary.
+
+20. Write a Python program to find the sum of the first n positive integers. Take n as input from the user.
+
+
+
+
+
+
