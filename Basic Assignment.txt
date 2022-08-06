@@ -21,6 +21,7 @@
 11. Write a Python program to check if all the characters of a string are vowel or not.
 
 12. WAP to calculate percentage of a student through 5 subjects. Take marks as input from the user.
+13. just for github
 
 13. WAP to convert '95.3' taken as input from the user into float value.
 
