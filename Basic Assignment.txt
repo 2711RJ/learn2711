@@ -17,6 +17,7 @@
 9. Calculate income tax for the input income by adhering to the Indian rules.
 
 10. Write a Python program to check whether a string starts with vowel or not.
+11. this not the same
 
 
 
